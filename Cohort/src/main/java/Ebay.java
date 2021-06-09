@@ -27,6 +27,7 @@ public class Ebay {
 	}
 		Thread.sleep(5000);
 		driver.close();
+		System.out.println("Hello");
 
 }
 }
